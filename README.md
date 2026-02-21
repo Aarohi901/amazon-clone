@@ -21,10 +21,6 @@ This is a basic Amazon homepage clone built using HTML and CSS. The project focu
 * Improve UI and animations
 * Add more pages (login, cart, product page)
 
-## 🌐 Live Demo
-
- https://aarohi901.github.io/amazon-clone/
-
 ## 🙋‍♀️ Author
 
 Aarohi Junghare
